@@ -1,0 +1,8 @@
+*
+!.npmrc
+!package-lock.json
+!package.json
+!protos
+!scripts
+!src
+!tsconfig.json
