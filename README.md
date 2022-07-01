@@ -16,7 +16,7 @@ Run `npm i` to install required packages.
 Run `npm start` to start the application (by default it will be on the port
 **4000**).
 
-If p.3 was successful you will see an output similar to this one:
+If the start was successful you will see an output similar to this one:
 
 ```shell
 Compiled successfully!
@@ -32,8 +32,20 @@ To create a production build, use npm run build.
 
 ### Usage
 
-Enter a numerical expression to the input and press the **"Calculate"** button
+Enter an arithmetic expression to the input and press the **"Calculate"** button
 to see the calculation result below the button.
+
+Example:
+
+```
+1.5 + 2*3 - 5/2 + +1 - -2
+```
+
+Output:
+
+```
+8
+```
 
 ## Node.js service
 
